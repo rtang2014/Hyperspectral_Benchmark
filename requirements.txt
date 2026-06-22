@@ -1,0 +1,8 @@
+numpy
+scipy
+zarr
+ome-zarr
+scikit-learn
+matplotlib
+napari
+h5py
